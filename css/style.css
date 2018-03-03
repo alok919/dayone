@@ -1,0 +1,262 @@
+*{margin: 0;padding: 0}
+
+body{
+    background-color: #EEEEEE;
+}
+.top-title{
+    background-color: #002146;  
+   /* height: 155px;*/
+   padding-bottom: 20px;
+}
+.top-title h4 {
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 24px;
+    font-family: system-ui;
+    font-weight: bolder;
+    margin-top: 38px;
+}
+.top-title img{
+    margin-top:16px;
+}
+
+
+/*----Top title----*/
+
+.mynav{
+   font-family: system-ui;
+   /*margin-bottom: 57px;*/
+}
+
+.navbar{
+     background-color:#00254E !important;
+}
+
+.navbar .navbar-brand{
+    color: #fff;
+    font-weight: bolder;
+    font-size: 1.3em;
+}
+
+
+
+.navbar .nav-item a{
+    color: #fff !important ;
+}
+.navbar .nav-item a:hover{
+    background-color:#ECB200;
+}
+.navbar .dropdown-menu{
+    background-color:#00254E ;
+}
+
+.dropdown-item:hover{
+    background-color:#ECB200;
+}
+.btn{
+   color: #00254E;
+}
+
+/*-------- End_navbar --------*/
+
+
+
+
+/*----------NewsEvent css Start--------------*/
+
+.NewsEvent {
+    /* height: 600px; */
+    background-color: #FFFFFF;
+    margin-top: 50px;
+    color: #323439;
+    box-shadow: 9px 7px 5px -4px #333;
+    margin-bottom: 20px;
+}
+
+.NewsEvent h3{
+    color: #333;
+    text-shadow: 2px 2px #66E;
+    margin-top: 20px;
+    font-size: 29px;
+    padding: 5px;
+    font-weight: bolder;
+}
+
+.NewsEvent img {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 5px;
+}
+
+
+
+.list-group-item a{
+    text-decoration: none;
+}
+ .list-group-item a:hover{
+    color: red;
+}
+
+ /*----------NewsEvent css End--------------*/
+
+ 
+
+
+
+
+            /*----------End slider owl--------------*/
+
+
+            #gotoup {
+                bottom: 10px;
+                right: 10px;
+                position: fixed;
+                font-size: 46px;
+                color: green;
+                cursor: pointer;
+            }
+        /*----------Start icon_text CSS ----------*/
+  
+
+
+.result{
+    background-color: #FFFFFF;
+    margin-top: 50px;
+    color: #323439;
+    box-shadow: 9px 7px 5px -4px #333;
+    margin-bottom: 20px;
+
+    
+    
+}
+
+.div1 {
+    background:#002146;
+    height: 200px;
+    margin-top: 41px;
+    margin-bottom: 41px;
+    box-shadow: 9px 7px 5px -4px #333;
+    
+}
+.div1:hover {
+    transform: scale(1.12);
+    transition: 1s;
+    
+}
+.icon_text {
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 48px;
+    padding-top: 27px;
+} 
+.icon_text a {
+    text-decoration: none;
+    color: #FFFFFF
+}
+
+    
+
+
+                 /*----------Start footer CSS ----------*/
+.well{
+
+    background-color: #00254E;
+    height: 145px;
+
+}
+.linkup {
+    
+    text-align: center;
+    color: #DBE0E6;
+    text-decoration: none;
+    padding-top: 31px;
+}
+
+.well h5{
+    color: #DBE0E6;
+    font-size: 18px;
+    font-family: system-ui;
+    padding-top: 24px;
+} 
+.well p{
+    color: #DBE0E6;
+    font-size: 14px;
+    padding:2px;
+    text-align: center;
+    font-family: system-ui;
+}
+
+
+/*------------------Start Common Pages pages---*/
+
+.commom_pages{
+    height: 67px;
+    background: #00254E;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.commom_pages h3 {
+    text-align: center;
+    font-size: 24px;
+    padding-top: 17px;
+    color: #FFFFFF;
+}
+
+.bodypage{
+    background-color: #FFFFFF;
+    margin-top: 10px;
+    color: #323439;
+    box-shadow: 9px 7px 5px -4px #333;
+    margin-bottom: 20px;
+    /*height: 500px;*/
+}
+
+/*------------------End Common Pages pages---*/
+
+
+/*------------------start Alummi pages---*/
+.about{
+
+    
+    background-color: #FFFFFF;
+    margin-top: 50px;
+    color: #323439;
+    box-shadow: 9px 7px 5px -4px #333;
+    margin-bottom: 20px;
+}
+
+.mycol{
+   background:#00254E;
+   color: #fff; 
+   margin-bottom:30px;
+}
+
+.pages_para{
+    
+    background: #F0F0F0;
+    
+}
+.pages_para p{
+    color: #00254D;
+    font-size: 17px;
+    /*font-weight: 200;*/
+    padding: 12px;
+    line-height: 31px;
+}
+
+
+/*---Login Pages--*/
+
+.myform{
+    padding-top: 40px;
+    padding-bottom:40px;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
